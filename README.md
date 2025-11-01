@@ -1,9 +1,13 @@
 <h1 align="center">multiplayered</h1>
-<p align="center">An easy-to-use web panel for Meta Horizon that allows game administrators and developers to manage their online application in real-time, without all the fuss of limits and paid tiers.</p>
+<p align="center">An easy-to-use web panel for Meta Horizon that allows developers and game administrators to manage their online application in real-time, without all the fuss of limits and paid tiers.</p>
+
 
 ## 🤔 What are the features?
 **multiplayered** has an ever-expanding list of options readily available when you need them, including:
 - Account authentication using Meta and device attestation
+  - Support for device bans
+  - App and device integrity state verification
+  - Package certificate verification
 - Economy system with support for in-app purchases
   - Virtual currency management
     - Interval-based recharge (seconds, minutes, hours, days, weeks, months, etc.)
@@ -30,6 +34,7 @@
 - Managing events for engagement and prizes
 - Support for user-generated content
 - Achievements, quests, milestones, etc.
+  - Achievements can integrate with Meta's Achievement API.
   - Quests are able to "rotate" on a customizable basis (seconds, minutes, hours, days, weeks, months, etc.)
   - Milestones automatically increase their completion threshold for the next "level."
 - Insights into engagement patterns to increase retention
